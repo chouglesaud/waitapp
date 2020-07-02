@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Host</title>
+    <style>
+      .container {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Host</h1>
+      <div class="form">
+        <input type="text" id="room" placeholder="room name" />
+        <button id="create">create</button>
+        <button id="update">update</button>
+        <button id="delete-room">delete room</button>
+      </div>
+      <div class="number">
+        <h1 id="number"></h1>
+      </div>
+    </div>
+
+    <script src="../dist/host.js"></script>
+  </body>
+</html>

@@ -46,6 +46,12 @@ cd waitapp
 start the server (enter in terminal)
 
 ```
+npm install
+```
+
+then
+
+```
 npm start
 ```
 

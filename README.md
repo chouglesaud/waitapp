@@ -11,7 +11,7 @@ sudo apt-get install nodejs
 
 ```
 
-for window
+for windows
 
 [link for window](https://nodejs.org/en/download/)
 
@@ -35,7 +35,8 @@ npm -v
 
 # Now you are ready to go.
 
-go to waitapp directory
+1- first clone or download the repository
+2- go to waitapp directory
 
 ```
 cd waitapp

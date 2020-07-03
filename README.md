@@ -26,7 +26,7 @@ node -v
 v12.18.1 // yours might be different
 ```
 
-It will show npm version.
+Check npm version. (npm get installed along nodejs)
 
 ```
 npm -v
@@ -35,14 +35,14 @@ npm -v
 
 # Now you are ready to go.
 
-1- first clone or download the repository
-2- go to waitapp directory
+- first clone or download the repository
+- go to waitapp directory
 
 ```
 cd waitapp
 ```
 
-start the server (enter in terminal)
+start the server
 
 ```
 npm install

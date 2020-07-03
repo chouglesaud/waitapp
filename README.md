@@ -13,9 +13,7 @@ sudo apt-get install nodejs
 
 for window
 
-```
-
-```
+[link for window](https://nodejs.org/en/download/)
 
 ## confirmation
 
